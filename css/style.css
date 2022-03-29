@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color:#ffffff;
     position: relative;
@@ -6,4 +7,11 @@ body{
 }
 .class{
     background-image: url(../img/corredor.jpg);
+=======
+body{
+    background-color:#ffffff;
+    position: relative;
+    width: 1600px;
+    height: 6532px;
+>>>>>>> dd1ff6c3b1c26d801c027657fc9121d3e23fc33a
 }

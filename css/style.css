@@ -1,0 +1,9 @@
+body{
+    background-color:#ffffff;
+    position: relative;
+    width: 1600px;
+    height: 6532px;
+}
+.class{
+    background-image: url(../img/corredor.jpg);
+}
